@@ -4,3 +4,7 @@ staging area
 local area
 remote repo
 stash
+ghshs
+bhhf
+vhuttaj
+vgyuu
